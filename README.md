@@ -1,3 +1,29 @@
+### Prerequisites
+
+Make sure you have the following installed:
+
+- **Node.js** (v14.18.0 or higher)
+- **npm** or **yarn** (depending on your preference)
+
+You can download Node.js from [here](https://nodejs.org/).
+
+### Cloning the Repository
+
+To clone this repository, run the following command in your terminal:
+
+```bash
+git clone https://github.com/femiboy07/Filler.git
+
+then navigate to the project directory with cd Filler
+
+then you can run npm install or yarn install if using yarn package manager
+
+### Running the Project Locally
+
+npm run dev or yarn run dev
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
